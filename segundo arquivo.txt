@@ -2,3 +2,4 @@ ad novo arquivo
 alterado aquivo 2
 tese aqruivo segundo alterado
 adicionado nova linhano segundo arquivo
+adiconado nova linha para branch staging
